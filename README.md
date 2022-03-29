@@ -1,0 +1,1 @@
+# fiind-fact-num-usin-for-loop
